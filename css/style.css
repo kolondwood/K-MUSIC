@@ -18,7 +18,7 @@ li{
 }
 
 header{
-    background: url(../img/c-d-x-PDX_a_82obo-unsplash.jpg) no-repeat center / cover;
+    background: url(../img/BACK-1.png) no-repeat center / cover;
     height: 100vh;
     background-attachment: fixed;
     position: relative;
@@ -336,7 +336,7 @@ nav.sticky .nav__link:hover{
 /* Footer styling */
 
 .footer{
-    background: rgb(78, 54, 165);
+    background: rgb(28, 21, 53);
     padding: 25px 0;
 }
 .foot__text, .foot__title{
@@ -414,14 +414,14 @@ audio.show{
 }
 
 .aplayer{
-    background: #291852 !important;
+    background: #2b0d3f !important;
     color: #fff !important;
 }
 .aplayer-time-inner, .aplayer-author, .aplayer-list-author, .aplayer-list-index{
     color: #fff !important;
 }
 .aplayer .aplayer-list ol li.aplayer-list-light, .aplayer-list li:hover{
-    background: #1a0f3a !important;
+    background: #0a041a !important;
 }
 .aplayer-bar, .aplayer-thumb, .aplayer-played{
     background-color: #fff !important;
