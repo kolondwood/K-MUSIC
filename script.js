@@ -164,7 +164,7 @@ boxes.forEach(box => {
     box.classList.remove('carousel-item');
 
     if (width <= 768) {
- 
+
         box.classList.add('carousel-item');
         console.log(width);
     }

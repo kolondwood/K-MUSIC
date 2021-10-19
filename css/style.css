@@ -211,7 +211,7 @@ nav.sticky .nav__link:hover{
 }
 .card__content ul{
     margin: 70px;
-    width: fit-content;
+    width:fit-content;
 }
 .card__content li{
     list-style: disc;
