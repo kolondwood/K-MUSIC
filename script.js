@@ -86,6 +86,48 @@ const ap = new APlayer({
             url: 'https://dl.beelody.com/Free/2019/6/This%20Is%20Machine%20Gun%20Kelly%20%282019%29%20MELOVAZ.NET/12%20Let%20You%20Go.mp3',
             cover: 'https://thisis-images.scdn.co/37i9dQZF1DZ06evO44TgnC-large.jpg'
         },
+        {
+            name: 'papercuts',
+            artist: 'mgk',
+            url: 'https://musicfeed.ir/files/dir/2021/8/Machine%20Gun%20Kelly%20papercuts.mp3',
+            cover: 'https://thisis-images.scdn.co/37i9dQZF1DZ06evO44TgnC-large.jpg'
+        },
+        {
+            name: 'You should be sad',
+            artist: 'Halsey',
+            url: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/04%20You%20should%20be%20sad.mp3',
+            cover: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/Cover.jpg'
+        },
+        {
+            name: 'Graveyard',
+            artist: 'Halsey',
+            url: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/03%20Graveyard.mp3',
+            cover: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/Cover.jpg'
+        },
+        {
+            name: 'Forever ... (is a long time)',
+            artist: 'Halsey',
+            url: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/05%20Forever%20...%20%28is%20a%20long%20time%29.mp3',
+            cover: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/Cover.jpg'
+        },
+        {
+            name: 'Without Me',
+            artist: 'Halsey',
+            url: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/09%20Without%20Me.mp3',
+            cover: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/Cover.jpg'
+        },
+        {
+            name: 'Still Learning',
+            artist: 'Halsey',
+            url: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/15%20Still%20Learning.mp3',
+            cover: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/Cover.jpg'
+        },
+        {
+            name: '3am',
+            artist: 'Halsey',
+            url: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/08%203am.mp3',
+            cover: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/Cover.jpg'
+        },
     ]
 })
 
