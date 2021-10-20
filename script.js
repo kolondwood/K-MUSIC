@@ -164,6 +164,42 @@ const ap = new APlayer({
             url: 'https://dl.beelody.com/Free/2020/1/This%20Is%20Lorde%20%282020%29%20MELOVAZ.NET/13%20400%20Lux.mp3',
             cover: 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336'
         },
+        {
+            name: 'Bad Romance',
+            artist: 'Lady Gaga',
+            url: 'https://dl.beelody.com/Free/2018/7/This%20Is%20Lady%20Gaga%20%282018%29%20MELOVAZ.COM/01%20Bad%20Romance.mp3',
+            cover: 'https://thisis-images.scdn.co/37i9dQZF1DZ06evO0XhJtu-large.jpg'
+        },
+        {
+            name: 'Born This Way',
+            artist: 'Lady Gaga',
+            url: 'https://dl.beelody.com/Free/2018/7/This%20Is%20Lady%20Gaga%20%282018%29%20MELOVAZ.COM/03%20Born%20This%20Way.mp3',
+            cover: 'https://thisis-images.scdn.co/37i9dQZF1DZ06evO0XhJtu-large.jpg'
+        },
+        {
+            name: 'Poker Face',
+            artist: 'Lady Gaga',
+            url: 'https://dl.beelody.com/Free/2018/7/This%20Is%20Lady%20Gaga%20%282018%29%20MELOVAZ.COM/04%20Poker%20Face.mp3',
+            cover: 'https://thisis-images.scdn.co/37i9dQZF1DZ06evO0XhJtu-large.jpg'
+        },
+        {
+            name: 'Alejandro',
+            artist: 'Lady Gaga',
+            url: 'https://dl.beelody.com/Free/2018/7/This%20Is%20Lady%20Gaga%20%282018%29%20MELOVAZ.COM/06%20Alejandro.mp3',
+            cover: 'https://thisis-images.scdn.co/37i9dQZF1DZ06evO0XhJtu-large.jpg'
+        },
+        {
+            name: 'Just Dance',
+            artist: 'Lady Gaga',
+            url: 'https://dl.beelody.com/Free/2018/7/This%20Is%20Lady%20Gaga%20%282018%29%20MELOVAZ.COM/09%20Just%20Dance.mp3',
+            cover: 'https://thisis-images.scdn.co/37i9dQZF1DZ06evO0XhJtu-large.jpg'
+        },
+        {
+            name: 'Million Reasons',
+            artist: 'Lady Gaga',
+            url: 'https://dl.beelody.com/Free/2018/7/This%20Is%20Lady%20Gaga%20%282018%29%20MELOVAZ.COM/14%20Million%20Reasons.mp3',
+            cover: 'https://thisis-images.scdn.co/37i9dQZF1DZ06evO0XhJtu-large.jpg'
+        },
     ]
 })
 
