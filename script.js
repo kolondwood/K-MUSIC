@@ -88,7 +88,7 @@ const ap = new APlayer({
         },
         {
             name: 'papercuts',
-            artist: 'mgk',
+            artist: 'MGK',
             url: 'https://musicfeed.ir/files/dir/2021/8/Machine%20Gun%20Kelly%20papercuts.mp3',
             cover: 'https://thisis-images.scdn.co/37i9dQZF1DZ06evO44TgnC-large.jpg'
         },
@@ -127,6 +127,42 @@ const ap = new APlayer({
             artist: 'Halsey',
             url: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/08%203am.mp3',
             cover: 'https://dl.beelody.com/Free/2020/1/Halsey%20-%20Manic%20%282020%29%20MELOVAZ.NET/Cover.jpg'
+        },
+        {
+            name: 'Perfect Places',
+            artist: 'LORDE',
+            url: 'https://dl.beelody.com/Free/2020/1/This%20Is%20Lorde%20%282020%29%20MELOVAZ.NET/02%20Perfect%20Places.mp3',
+            cover: 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336'
+        },
+        {
+            name: 'Green Light',
+            artist: 'LORDE',
+            url: 'https://dl.beelody.com/Free/2020/1/This%20Is%20Lorde%20%282020%29%20MELOVAZ.NET/04%20Green%20Light.mp3',
+            cover: 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336'
+        },
+        {
+            name: 'Supercut',
+            artist: 'LORDE',
+            url: 'https://dl.beelody.com/Free/2020/1/This%20Is%20Lorde%20%282020%29%20MELOVAZ.NET/06%20Supercut.mp3',
+            cover: 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336'
+        },
+        {
+            name: 'Team',
+            artist: 'LORDE',
+            url: 'https://dl.beelody.com/Free/2020/1/This%20Is%20Lorde%20%282020%29%20MELOVAZ.NET/08%20Team.mp3',
+            cover: 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336'
+        },
+        {
+            name: 'Liability',
+            artist: 'LORDE',
+            url: 'https://dl.beelody.com/Free/2020/1/This%20Is%20Lorde%20%282020%29%20MELOVAZ.NET/11%20Liability.mp3',
+            cover: 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336'
+        },
+        {
+            name: '400 Lux',
+            artist: 'LORDE',
+            url: 'https://dl.beelody.com/Free/2020/1/This%20Is%20Lorde%20%282020%29%20MELOVAZ.NET/13%20400%20Lux.mp3',
+            cover: 'https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336'
         },
     ]
 })
