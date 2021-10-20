@@ -249,7 +249,7 @@ nav.sticky .nav__link:hover{
     font-weight: 500;
 }
 .service__text{
-    color: #202020;
+    color: #ffffff;
     padding-bottom: 20px;
     max-width: 450px;
 }
@@ -360,11 +360,11 @@ nav.sticky .nav__link:hover{
 .social i{
     font-size: 24px;
     margin: 0 5px;
-    color: #ccc;
+    color: rgb(227, 255, 246);
     transition: all 0.3s;
 }
 .social i:hover{
-    color: #266a97;
+    color: #268f97;
     transform: scale(0.95);
 }
 
@@ -390,7 +390,7 @@ audio{
     transition: all .5s;
 }
 audio::before{
-    background: #00ffaa;
+    background: #656de2;
 }
 audio.show{
     opacity: 1;
@@ -398,7 +398,7 @@ audio.show{
 }
 
 #aplayer{
-    position: fixed;
+    position:fixed;
     bottom: -100%;
     left: 0;
     width: 100%;
@@ -414,7 +414,7 @@ audio.show{
 }
 
 .aplayer{
-    background: #2b0d3f !important;
+    background: #4B0082 !important;
     color: #fff !important;
 }
 .aplayer-time-inner, .aplayer-author, .aplayer-list-author, .aplayer-list-index{
@@ -426,3 +426,42 @@ audio.show{
 .aplayer-bar, .aplayer-thumb, .aplayer-played{
     background-color: #fff !important;
 }
+.marilyn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    background: #fff;
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+}
+.cardmusic {
+    background: #fff;
+
+    border-radius: 20px;  
+    cursor: pointer;
+    transition: all .3s;
+    object-fit: cover;
+    width: 100%;
+    min-height: 250px;
+}
+.img__blog:hover .cardmusic{
+    filter: brightness(20%);
+}
+.card__gorbe, .gorbe__title{
+    margin:auto;
+    padding: 10px 0 10px 5px;
+    color: #cffdea;
+    text-align: center;
+    font-size: 25px;
+    font-style: inherit;
+    font-weight: 15px;
+    font-weight: bold;
+    border-radius: 50px;
+    transition: all .3s;
+    cursor:alias}
+.card__gorbe:hover, .box__title:hover{
+        background: #06965a;
+        color: #fff;}
+
