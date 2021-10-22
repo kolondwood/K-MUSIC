@@ -515,7 +515,7 @@ audio.show{
           }
           
           .profile-card:hover {
-            width: 430px;
+            width: 385px;
             border-radius: 100px 100px 100px 100px;
             transition: all 1s ease-out;
           }
